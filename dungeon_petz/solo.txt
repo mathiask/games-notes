@@ -1,0 +1,14 @@
+SOLO VARIANT
+
+The rules are the same as the rulebook 2 player variant (six blocking imps
+rotating) , except that:
+
+-At the beginning of every turn, you get only one coin
+
+-To send imps to town, you have to make groups of different sizes (for
+ instance, to get 3 actions on the board you have to send one group of 1, one
+ of 2 and one of 3)
+
+-For each exhibtion, you score as many victory points as your exhibtion score
+
+-You beat the game scoring at least 100 points

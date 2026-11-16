@@ -1,0 +1,43 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Aragorn (Core Set)
+1x Bifur (Khazad-dum)
+1x Theodred (Core Set)
+
+Ally: (19)
+1x Erebor Hammersmith (Core Set)
+3x Snowbourn Scout (Core Set)
+2x Erebor Record Keeper (Khazad-dum)
+1x Ravenhill Scout (The Redhorn Gate)
+2x Faramir (Core Set)
+2x Daughter of the Nimrodel (Core Set)
+3x Guard of the Citadel (Core Set)
+2x Silverlode Archer (Core Set)
+1x Longbeard Orc Slayer (Core Set)
+2x Gandalf (Core Set)
+
+Attachment: (9)
+2x Protector of Lorien (Core Set)
+2x Steward of Gondor (Core Set)
+1x Celebrian's Stone (Core Set)
+2x Self Preservation (Core Set)
+2x Narvi's Belt (Khazad-dum)
+
+Event: (22)
+2x For Gondor! (Core Set)
+2x Ever Vigilant (Core Set)
+2x Common Cause (Core Set)
+2x Valiant Sacrifice (Core Set)
+3x Ancestral Knowledge (Khazad-dum)
+2x Secret Paths (Core Set)
+2x Durin's Song (Khazad-dum)
+2x Sneak Attack (Core Set)
+3x Lore of Imladris (Core Set)
+2x Radagast's Cunning (Core Set)
+
+Side Quest: (0)
+

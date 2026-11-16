@@ -1,0 +1,7 @@
+This package contains several files which are elements of the new scenario for Robinson Crusoe - Tracing doctor Livingstone:
+
+1_Article - this file contains an article by Ignacy Trzewiczek, in which describes the story that inspired him to create the scenario. It's not necessary for the game.
+2_Scenario - this file contains all the rules of the new scenario.
+3_Story - this file contains additional informations essential to play this scenario. The informations are gathered here in the form of a gamebook called The Story of Henry Stanley.
+4_Story_Livingstone_found - this is the second part of The Story of Henry Stanley which contains different endings of this scenario.
+5_Story_Cross - one of the events described in The Story of Henry Stanley requires the players to build a Cross Item. If you want to print it and place it on the game board you can use this file.

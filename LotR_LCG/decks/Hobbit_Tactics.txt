@@ -1,0 +1,35 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Thalin (Core Set)
+1x Gimli (Core Set)
+1x Beorn (Over Hill and Under Hill)
+
+Ally: (15)
+3x Gondorian Spearman (Core Set)
+3x Veteran Axehand (Core Set)
+3x Horseback Archer (Core Set)
+3x Gandalf (Core Set)
+3x Bofur (Over Hill and Under Hill)
+
+Attachment: (11)
+3x Citadel Plate (Core Set)
+2x Horn of Gondor (Core Set)
+3x Blade of Gondolin (Core Set)
+3x Dwarrowdelf Axe (Khazad-dum)
+
+Event: (24)
+3x Foe-hammer (Over Hill and Under Hill)
+3x Goblin-cleaver (Over Hill and Under Hill)
+3x Swift Strike (Core Set)
+3x Blade Mastery (Core Set)
+3x Feint (Core Set)
+3x Quick Strike (Core Set)
+3x Stand Together (Core Set)
+3x Khazad! Khazad! (Khazad-dum)
+
+Side Quest: (0)
+

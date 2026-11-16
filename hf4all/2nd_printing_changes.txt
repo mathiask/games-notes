@@ -1,0 +1,134 @@
+[Geoff Speare, @galfridus, Posted,Oct 10 (edited)]
+The next printing of HF4A (submitted on or around October 2021) has updated rules and cards. This is my unofficial list of the changes.
+
+I went carefully through all the rules and noted anything which was more than a clarification. If you find something I missed, let me know.
+
+Major Core/M1/M2 rules changes:
+• None. If you don't use these changes, your game experience is pretty much the same.
+
+Significant Core rules changes:
+• Numerous examples corrected!
+• Colony domes are not bit limited, but you only score for those supplied [B8 tip]
+• Factory-assist liftoff into a Hazard ignores that Hazard [H6c]
+• Factory-assist landing/liftoff is not a Hazard for Colony Sites [H6c]
+• Air-eater refuel grants 5 tanks minus Fuel Consumption (changed from 5) [I5c]
+• Glitch event only affects stacks without Colocated Humans [K2b]
+• Martial law applies at the start of a fundraise rather than the end [O2b]
+• 1st player does not change at end of cycle if in martial law [O5d]
+• Anchoring GEO or Lofstrom Loop Bernal in Home Orbit requires Epic Hazard Roll [Glossary, Epic Hazard Roll]
+• War of Independence changed [Glossary]
+○ War ends at end of current season
+○ Specific effects are different (see Glossary)
+
+Significant Module 1 & 2 rules changes
+• Numerous Futures clarifications (see below)
+• "Factory Load Only" freighters cannot be loaded at Home Bernals [1B3b]
+• GEO Elevator persists if GEO Bernal unanchored; any other Bernal anchored there can use it to boost for 1x [1B9f]
+• Each named Future can only be completed once per game [1D1a]
+• Endgame Futures require that the Future card be operational and Colocated with a Human at game end [1D2b]
+• Gaining a delegate during exomigration is optional [2A6c]
+• Placing 2nd Bernal at Home Bernal costs 10 Aqua [2A7c]
+• Bernals can activate other dirt thrusters when moving [2B2c]
+• Climate Control Bernal must be Anchored at L1 to receive Home Ability [2B4c]
+• Miner Colonists give an extra refuel during a refuel op rather than a free refuel [2C1a]
+• Engineer Colonists can be at the Factory or Anchored Bernal to give extra ET Production [2C1d]
+• On-board nuclear supports on Colonists can be used for nanofacturing [2C3]
+• Biomechs ability does not work during war/anarchy [2C4j]
+• Iceworms no longer make Epic Hazard Operations a free action
+
+Other Core rules changes:
+• "Bank" defined [Glossary]
+• You can cargo transfer Fuel between Rocket/Bernal Stacks as FTs or on the Fuel Strip. However, a Crew dirt thruster is limited to accept one Fuel Tank per Turn. [G1c]
+• Placing a delegate when building a Colony is optional [G3c]
+• Phileas Fogg cannot use Bernal cards [G2c]
+• Load Glory Chit: "Site never visited before by Humans" removed [G5, L]
+• Free marketing a card with no Factories nets 10 Aqua [I3b]
+• Project Valkyrie clarified to only affect its own Rocket Stack [J1c, tip]
+• Clarification of what "or" means in reactor requirements [J1d, tip]
+• You may choose to make a card non-operational [J3e]
+• Negotiation: Anchored Bernals and promoted cards cannot be transferred [N]
+• Crew rescue can also be used on Colonists [N3d]
+• Colonist specialties may be shared [N7]
+• Any change in delegates (add, move, remove) causes a vote tally [O3]
+• Freedom to Roam allows use of Space Elevators [O5f]
+• You cannot use your big cube for the Sunspot cube [O6b]
+• Bank defined as LEO/Home Bernal [Glossary]
+• Cards at anchored Bernals immune to CME [Glossary]
+• Glitch Roll affects all your Colocated Stacks [Glossary]
+• Glitch trigger does not happen when ET Producing to outpost [Glossary]
+• Murder/suicide of Colonist does not remove a delegate; the Colonist returns to Bank [Glossary]
+
+Other Module 1 & 2 rules changes:
+• You cannot abandon a Dirtside Factory if it would leave a Bernal without a Dirtside [1B6c]
+• You may choose to Decommission your Promoted Freighter instead of cube swapping [1B7a]
+• Move-On rule removed (anchoring a Bernal in same space) [2A5h in old rules]
+• Bernals not being used for movement must convert fuel to FTs [2B2d]
+• UN receives 2 Aqua when Home Bernal Anchored [2B3b]
+• All Anchored Bernals protect from events [2A5]
+
+Futures Changes/Clarifications
+• TW FUTURE CHANGES/CLARIFICATIONS [1D3]
+○ Spacefaring: TW Thruster must be at Bernal with 8+ Dirtside Hydration
+○ Mini-Black Hole: TW Thruster must be at centaur; 10 isotope must be spent
+○ Mass Beam: TW Thruster must be at Promoted Bernal; effect grants freighters 3 thrust
+○ Fusion Candle: TW Thruster must be at Promoted Bernal
+○ Protium Fusion: TW Thruster must be at Promoted Bernal
+○ Enzmann Starship: TW Thruster must be with ad astra Stack
+○ Lithiated Ammonia Ice Starship: TW Thruster must be with ad astra Stack
+• FREIGHTER FUTURE CHANGES/CLARIFICATIONS [1D4]
+○ Terraform: Freighter must be at Promoted Bernal
+○ Beehive Ark: Freighter must be at Promoted Bernal
+○ Exoplanet: Freighter must be at Sedna
+○ Beanstalk: Freighter (and Human) must be at site connected to constructed Space Elevator. +3 VP for each elevator connected to a Factory (of any player).
+○ Golden Apples: (no change)
+○ Antimatter: Freighter must be at Promoted Bernal
+○ Star Wisp: Freighter must be at Sunlens
+• COLONIST FUTURE CHANGES/CLARIFICATIONS [1D5]
+○ Colonist must be at the named location of the Future or at specified Bernal, if any. (These will be spelled out below, but this is a general rule.)
+○ New Venus: Colonist must be on comet. Venus and Comet immediately have all tokens removed and are Busted. No longer Endgame.
+○ Supreme Cult: No location. No longer Endgame, but you must control this Colonist at game end to receive the VP.
+○ Artificial Consciousness: Colonist must be at Astrobiology Dirtside.
+○ SETI: Colonist must be at one of the trojans.
+○ Secession: Colonist must be at Promoted Anchored Bernal. Both Colonists have the same Secession Future text.
+○ Footfall: Colonist must be at comet. Comet immediately has all tokens removed and is Busted. No longer Endgame.
+○ ET Life: Colonist must be at Astrobiological Colony.
+○ Aerostat: Colonist must be at Promoted Bernal.
+○ Pan Sapiens: Colonist must be at Factory connected to Space Elevator.
+○ Dyson Bubble: Colonist must be at Mercury Site. Endgame.
+○ Submariner: Colonist must be at Submarine Factory or Colony.
+○ Beanstalk: Colonist must be at Site connected to constructed Space Elevator. +3 VP for each elevator connected to a Factory (of any player).
+○ TNO: Colonist must be at Neptune Factory.
+○ Uplift: Colonist must be at Promoted Bernal.
+
+EDIT: Appendix Changes (all):
+
+APPENDIX:
+• V1 Quick Start
+○ Player count changed to 2+, competitive.
+• V2 Race to Saturn
+○ Game end requires landing on Titan surface (not aerostat).
+• V4 Altruism
+○ Module 0 can be used.
+○ Patent Deck Setup: Remove half of each patent deck sight unseen.
+○ Research Auction Operation:
+§ Take a card, plus supports, for 1 Aqua per card taken.
+§ Marketeer faction privilege: 3 cards costs 2 Aqua.
+§ Academia hand limit applies, even in solo games.
+• V5 Hermes Fall
+○ Patent Deck setup as in V4, but Mass Driver is always added to thruster deck.
+○ Research Auction Operation as in V4.
+• V6 CEO
+○ Patent Deck Setup as in V4.
+○ Research Auction Operation as in V4.
+○ Faction privilege rules as in V4 (instead of special rules for this scenario)
+• V7 Bios: Earth
+○ VP change: victory chits from previous games plus 1/2 HF score is your final score.
+• V8 Bios: Venus/Mars
+○ Place Earth overlay if starting on Mars.
+○ Martians cannot get glory chits from Mars moonlets.
+○ Venus and Mars LEO-equivalents do not provide solar flare protection [V8c].
+○ Campaign transition rules changed - source of winning macroorganism determines starting world [V8f]
+• V9 Sirens
+○ When splitting decks, Sirens get the extra card (if any).
+○ Quick Start: all players draw from one deck during first cycle, then split decks.
+○ Lofstrom Loop Bernal can also be used to build Uranus Space Elevator.

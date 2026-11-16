@@ -1,0 +1,39 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Thalin (Core Set)
+1x Gimli (Core Set)
+1x Bifur (Khazad-dum)
+
+Ally: (16)
+3x Gandalf (Core Set)
+3x Veteran Axehand (Core Set)
+2x Erebor Hammersmith (Core Set)
+3x Daughter of the Nimrodel (Core Set)
+3x Erebor Record Keeper (Khazad-dum)
+2x Miner of the Iron Hills (Core Set)
+
+Attachment: (19)
+3x Boots from Erebor (Khazad-dum)
+3x Protector of Lorien (Core Set)
+3x Dwarrowdelf Axe (Khazad-dum)
+2x Self Preservation (Core Set)
+3x Blade of Gondolin (Core Set)
+3x Rivendell Blade (Road to Rivendell)
+2x Horn of Gondor (Core Set)
+
+Event: (15)
+3x Khazad! Khazad! (Khazad-dum)
+3x Feint (Core Set)
+3x Quick Strike (Core Set)
+3x Radagast's Cunning (Core Set)
+3x Swift Strike (Core Set)
+
+Side Quest: (0)
+
+Comments:
+- too little card draw
+- Rivendell Blade questionable: no Silvan heroes

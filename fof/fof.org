@@ -1,0 +1,85 @@
+* Easily overlooked rules and unexpected consequences
+- smoke/incoming on firing card moves VOF to smoke card (6.1.2) =>
+  - ammo is still expended
+  - need to be commanded to go back to firing at other card
+- VOF stays after capture
+- upper story LOS, e.g., => VOF on entire card
+- face-down cards are assumed to be at level 1
+- "A" hit results for units with named "F" side are interpreted as "F"
+- grenade attacks ignore weather, smoke, etc.
+- Action can only be done *once per impulse*
+  - no two infiltrations, also not platoon and non-platoon
+  - all activated PLT HQ and CO Staff act in the /same/ impulse
+- tripods and mortars
+  - cannot infiltrate (no H either)
+  - not fire when exposed
+  - /tripods/ draw an extra card when concentrating fire
+** Less than clear rules
+- ^G! grants +2 spotting bonus
+- 6.3.4 vs. 6.1.2: fire automtically moves to the closest occupied card
+  - not only by movement, as long as there are targets in the same PDF
+  - does /not/ apply an P range (P => no PDF): only follows unit
+    - P range rated units keep firing on the card
+- Units in bunkers/pillboxes do /no/ get free grenade attacks
+- AT movement:
+  - VOF/PDF placement: after step 4 (taking effect next turn)
+  - "Move then AT Fire": Move&AT Fire in Step 3, reaction fire last
+
+* Notes
+- grenades: hits stack, misses don't, hits don't stack with artillary or
+  other FOV. No free reaction when pinned, LATs only when hit. Hits don't
+  disappear when LOS is lost later (unlike concentrate fire)
+- Enemy actions: random card, on card pinned/LAT, good, leader
+  - bunkers keep PDF, only exit for grenade on card and fall back
+- PCs markers: alphabetical order, then random
+- LATs are (mostly) green => draw modifiers, in particular for rally
+- initiative 1 draw for staff is unmodified
+- pinned units can
+  - move to /safe/ cards
+  - be "v&v" commanded to unpin
+- moving/falling back units stay pinned (if pinned) + become exposed
+
+* Tactics
+- move away from long range enemy to make it "go away"
+
+* Tutorial Actions
+|-------------------------------------+----------------------+------------|
+| *Scenario*                          | *(New) Actions*      | *Reference |
+|-------------------------------------+----------------------+------------|
+| *Platoon Assault Course*            |                      |            |
+|-------------------------------------+----------------------+------------|
+| Run 1 - Activation & Movement       | Activate             | 4.2.1a     |
+|                                     | Move                 | 4.2.2a     |
+|-------------------------------------+----------------------+------------|
+| Run 2 - Attacking an Enemy Position | Call for Fire        | 4.2.4i     |
+|                                     | Rally Litter Team    | 4.2.3c     |
+|                                     | /Concentrate Fire/   | 4.2.4b     |
+|                                     | /Grenade Attack/     | 4.2.4d     |
+|                                     | /Rally Pinned/       | 4.2.3a     |
+|                                     | /Infiltrate/         | 4.2.2c     |
+|-------------------------------------+----------------------+------------|
+| Run 3 - Potential Contact           | Seek Cover           | 4.2.2e     |
+|                                     | Move platoon         | 4.2.2b     |
+|                                     | Spot                 | 4.2.4a     |
+|                                     | /Move within card/   | 4.2.2f     |
+|-------------------------------------+----------------------+------------|
+| *Company Assault Course*            |                      |            |
+|-------------------------------------+----------------------+------------|
+| Run 1 - Assaulting a Known Position | Detach Team          | 4.2.3g     |
+|                                     | Designate tac. ctrl. | 4.2.11     |
+|                                     | Pick up, ...         | 4.2.2h     |
+|-------------------------------------+----------------------+------------|
+| Run 2 - Potential Contact System    | /Communications/     |            |
+|-------------------------------------+----------------------+------------|
+|-------------------------------------+----------------------+------------|
+| *Field Manual 2*                    | Exhort               | 4.2.1b     |
+|                                     | /AT Combat/          |            |
+|-------------------------------------+----------------------+------------|
+
+* Combat Stats
+miss > 4*pin > hit
+|-------------------+---+------+------+------+------+----+----+----+----+---+---+---+---+---+---+---|
+| Min for hit /pin/ | - | /-4/ | /-3/ | /-2/ | /-1/ | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|-------------------+---+------+------+------+------+----+----+----+----+---+---+---+---+---+---+---|
+| #                 | 1 |    1 |    1 |    2 |    5 |  5 |  5 |  5 |  5 | 5 | 5 | 5 | 2 | 1 | 1 | 1 |
+|-------------------+---+------+------+------+------+----+----+----+----+---+---+---+---+---+---+---|

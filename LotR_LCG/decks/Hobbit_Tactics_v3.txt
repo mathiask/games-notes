@@ -1,0 +1,37 @@
+Hobbit_Tactics_v3
+
+Main Deck
+
+Hero (3)
+Beorn (Over Hill and Under Hill)
+Gimli (Core Set)
+Thalin (Core Set)
+
+Ally (14)
+3x  Bofur (Over Hill and Under Hill)
+2x  Gandalf (Core Set)
+3x  Gondorian Spearman (Core Set)
+3x  Horseback Archer (Core Set)
+3x  Veteran Axehand (Core Set)
+
+Attachment (11)
+3x  Blade of Gondolin (Core Set)
+3x  Citadel Plate (Core Set)
+3x  Dwarrowdelf Axe (Khazad-dûm)
+2x  Horn of Gondor (Core Set)
+
+Event (25)
+3x  Blade Mastery (Core Set)
+1x  Burglar Baggins (Over Hill and Under Hill)
+3x  Feint (Core Set)
+3x  Foe-hammer (Over Hill and Under Hill)
+3x  Goblin-cleaver (Over Hill and Under Hill)
+3x  Khazâd! Khazâd! (Khazad-dûm)
+3x  Quick Strike (Core Set)
+3x  Stand Together (Core Set)
+3x  Swift Strike (Core Set)
+
+3  Heroes,  50  Cards
+Cards up to Over Hill and Under Hill
+
+Deck built on http://ringsdb.com.

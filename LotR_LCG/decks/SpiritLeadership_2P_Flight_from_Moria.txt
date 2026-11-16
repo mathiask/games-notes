@@ -1,0 +1,35 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Eowyn (Core Set)
+1x Eleanor (Core Set)
+1x Aragorn (Core Set)
+
+Ally: (14)
+3x Gandalf (Core Set)
+3x Northern Tracker (Core Set)
+3x Bofur (The Redhorn Gate)
+2x Longbeard Orc Slayer (Core Set)
+3x Silverlode Archer (Core Set)
+
+Attachment: (12)
+3x Celebrian's Stone (Core Set)
+3x The Favor of the Lady (Core Set)
+3x Unexpected Courage (Core Set)
+3x Steward of Gondor (Core Set)
+
+Event: (24)
+3x Durin's Song (Khazad-dum)
+3x Hasty Stroke (Core Set)
+3x A Test of Will (Core Set)
+3x For Gondor! (Core Set)
+3x Dwarven Tomb (Core Set)
+3x Sneak Attack (Core Set)
+3x Fortune or Fate (Core Set)
+3x Taking Initiative (The Redhorn Gate)
+
+Side Quest: (0)
+

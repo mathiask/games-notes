@@ -1,0 +1,35 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Gimli (Core Set)
+1x Legolas (Core Set)
+1x Thalin (Core Set)
+
+Ally: (17)
+3x Gandalf (Core Set)
+3x Horseback Archer (Core Set)
+3x Veteran Axehand (Core Set)
+3x Veteran of Nanduhirion (Khazad-dum)
+3x Gondorian Spearman (Core Set)
+2x Beorn (Core Set)
+
+Attachment: (15)
+3x Horn of Gondor (Core Set)
+3x Blade of Gondolin (Core Set)
+3x Rivendell Blade (Road to Rivendell)
+3x Citadel Plate (Core Set)
+3x Dwarrowdelf Axe (Khazad-dum)
+
+Event: (18)
+3x Khazad! Khazad! (Khazad-dum)
+3x Feint (Core Set)
+3x Blade Mastery (Core Set)
+3x Quick Strike (Core Set)
+3x Stand Together (Core Set)
+3x Swift Strike (Core Set)
+
+Side Quest: (0)
+

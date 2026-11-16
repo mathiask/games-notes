@@ -1,0 +1,37 @@
+#+TITLE: Differences to Star Trek: Captain's Chair
+
+|-------------------+-------------------------+--------------------------------|
+| Imp/ST:CC         | *Imperium*              | *ST:CC*                        |
+|-------------------+-------------------------+--------------------------------|
+| *Reshuffle*       | into discard pile       | on top of draw pile            |
+|                   | *before* shufling       | *after* shuffling              |
+|-------------------+-------------------------+--------------------------------|
+| *Activation*      | 5 tokens                | not used: *no limit*           |
+|-------------------+-------------------------+--------------------------------|
+| *Solstice*        | Used                    | N/A                            |
+|-------------------+-------------------------+--------------------------------|
+| *Locations*       | normal card             | area control minigame          |
+|                   | (no unrest)             |                                |
+|-------------------+-------------------------+--------------------------------|
+| *Civilised/*      | come with progress      | N/A                            |
+|                   | in setup                |                                |
+|-------------------+-------------------------+--------------------------------|
+| *Acquire/Gain*    | to hand                 | to draw deck or discard pile   |
+|                   | only face-up            | face-up or top of pile         |
+|                   | (+ unrest)              |                                |
+|-------------------+-------------------------+--------------------------------|
+| *Break Through/*  | face-up /wo unrest      | N/A (Gain is always /wo)       |
+|                   | top of pile             | s. Gain                        |
+|                   | for trait               | s. Scan for trait              |
+|-------------------+-------------------------+--------------------------------|
+| *Look/Scan*       | not taken -> same place | # of Suit: not taken -> bottom |
+|                   | s. also Break Through   | for trait                      |
+|-------------------+-------------------------+--------------------------------|
+| *Unrest/Incident* | all == -> return to top | return to bottom               |
+|-------------------+-------------------------+--------------------------------|
+| *\*VP limit 10*   | yes                     | no                             |
+|-------------------+-------------------------+--------------------------------|
+
+* New or easily forgotten rules in ST:CC
+- Player losing a location gets 1 glory per token at the location
+- Complete mission => dismiss contributing /beamed/ cards

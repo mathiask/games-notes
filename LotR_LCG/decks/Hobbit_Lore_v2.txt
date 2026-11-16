@@ -1,0 +1,38 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Ori (Over Hill and Under Hill)
+1x Bifur (Khazad-dum)
+1x Glorfindel (Core Set)
+
+Ally: (23)
+2x Bombur (Road to Rivendell)
+2x Erebor Hammersmith (Core Set)
+3x Daughter of the Nimrodel (Core Set)
+3x Miner of the Iron Hills (Core Set)
+3x Dori (Over Hill and Under Hill)
+2x Gleowine (Core Set)
+3x Erebor Record Keeper (Khazad-dum)
+2x Ravenhill Scout (The Redhorn Gate)
+3x Gandalf (Core Set)
+
+Attachment: (11)
+3x Protector of Lorien (Core Set)
+2x Forest Snare (Core Set)
+3x Thror's Map (Over Hill and Under Hill)
+3x Self Preservation (Core Set)
+
+Event: (16)
+3x Expecting Mischief (Over Hill and Under Hill)
+2x Secret Paths (Core Set)
+2x Radagast's Cunning (Core Set)
+3x Burglar Baggins (Over Hill and Under Hill)
+2x Beorn's Hospitality (Core Set)
+2x Lore of Imladris (Core Set)
+2x Lorien's Wealth (Core Set)
+
+Side Quest: (0)
+

@@ -1,0 +1,12 @@
+* Misplays
+- turn order is picket from lowest to highest
+- recalled and damaged fleets (from excess fleets) go to active
+  - recall is "free" if needed to pay for deactivate
+- deploy: any owned sector, but for muster * shipyard in that sector
+- increase *one* population
+- battle: same initiative => fire at the same time
+- basic dreadnought: 1 power per token (unlimited tokens)
+* Misc
+- agendas can be replaced, technologies cannot
+- /OK/
+  - no house tech bonus, updated techs are removed from the game

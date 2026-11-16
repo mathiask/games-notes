@@ -1,0 +1,36 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Eowyn (Core Set)
+1x Nori (Over Hill and Under Hill)
+1x Eleanor (Core Set)
+
+Ally: (14)
+3x Northern Tracker (Core Set)
+3x Bofur (The Redhorn Gate)
+2x Lorien Guide (Core Set)
+3x Zigil Miner (Khazad-dum)
+3x Gandalf (Over Hill and Under Hill)
+
+Attachment: (16)
+3x Song of Earendil (Road to Rivendell)
+3x Boots from Erebor (Khazad-dum)
+3x Good Meal (The Redhorn Gate)
+3x Spare Hood and Cloak (Over Hill and Under Hill)
+2x The Favor of the Lady (Core Set)
+2x Unexpected Courage (Core Set)
+
+Event: (20)
+3x The Galadhrim's Greeting (Core Set)
+2x Dwarven Tomb (Core Set)
+3x Renewed Friendship (The Redhorn Gate)
+3x Fortune or Fate (Core Set)
+3x Hasty Stroke (Core Set)
+3x A Test of Will (Core Set)
+3x Strength of Will (Core Set)
+
+Side Quest: (0)
+

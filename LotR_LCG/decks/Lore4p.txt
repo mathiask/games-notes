@@ -1,0 +1,37 @@
+Deck Created with CardGameDB.com The Lord of the Rings Deckbuilder
+
+
+Total Cards: (50)
+
+Hero: (3)
+1x Beravor (Core Set)
+1x Bifur (Khazad-dum)
+1x Glorfindel (Core Set)
+
+Ally: (21)
+3x Henamarth Riversong (Core Set)
+2x Erebor Record Keeper (Khazad-dum)
+3x Daughter of the Nimrodel (Core Set)
+3x Gandalf (Core Set)
+2x Erebor Hammersmith (Core Set)
+3x Miner of the Iron Hills (Core Set)
+3x Ravenhill Scout (The Redhorn Gate)
+2x Bombur (Road to Rivendell)
+
+Attachment: (11)
+3x Protector of Lorien (Core Set)
+3x Self Preservation (Core Set)
+3x Dark Knowledge (Core Set)
+2x Forest Snare (Core Set)
+
+Event: (18)
+2x Beorn's Hospitality (Core Set)
+3x Lore of Imladris (Core Set)
+3x Radagast's Cunning (Core Set)
+3x Secret Paths (Core Set)
+2x Ancestral Knowledge (Khazad-dum)
+2x Lorien's Wealth (Core Set)
+3x Out of the Wild (Road to Rivendell)
+
+Side Quest: (0)
+

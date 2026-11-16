@@ -1,0 +1,40 @@
+| *Misc*              |                                    |
+|---------------------+------------------------------------|
+| DEFCON Restrictions | Coup + Realignment                 |
+| DEFCON++            | Coup in Battleground               |
+| Mil Ops             | War + Coup                         |
+|---------------------+------------------------------------|
+| First Headline      | >Ops, US                           |
+| First Action        | USSR                               |
+|---------------------+------------------------------------|
+| Handsize            | Actions + 2 (w/o ZH), i.e. 8-9+(1) |
+|---------------------+------------------------------------|
+| Coup                | Ops + Roll > Stability * 2         |
+|---------------------+------------------------------------|
+| Realignment         | +1 for >influence                  |
+|                     | +1 for adjacent control            |
+|                     | +1 for adjacent superpower         |
+|                     | only reduce influence              |
+|---------------------+------------------------------------|
+
+
+|              |                     | EU | AS | ME | SA |  A | CA |
+|--------------+---------------------+----+----+----+----+----+----|
+| /Presence/   | Control country     |  3 |  3 |  3 |  2 |  1 |  1 |
+| /Domination/ | Control BG + non-BG |  7 |  7 |  5 |  5 |  4 |  3 |
+|              | >countries && >BG   |    |    |    |    |    |    |
+| /Control/    | all battlegrounds   |  V |  9 |  7 |  6 |  6 |  5 |
+|              | >countries          |    |    |    |    |    |    |
+|--------------+---------------------+----+----+----+----+----+----|
+|              | BG                  |  1 |  1 |  1 |  1 |  1 |  1 |
+|              | adj. to superpower  |  1 |  1 | NA | NA | NA |  1 |
+|--------------+---------------------+----+----+----+----+----+----|
+SEA: 2/Thailand + 1/other country
+
+
+| *Phase* | Scoring            | Rounds | Reshuffle | #Actions |
+|---------+--------------------+--------+-----------+----------|
+| Early   | EU, AS, ME         |    1-3 |         3 |        6 |
+| Mid     | +(SEA), CA, SA, AF |    4-7 |         7 |        7 |
+| Late    | "                  |   8-10 |           |        7 |
+|---------+--------------------+--------+-----------+----------|

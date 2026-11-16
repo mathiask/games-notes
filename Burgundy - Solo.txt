@@ -1,0 +1,19 @@
+Castles of Burgundy - Solo
+--------------------------
+Use the setup for two players and roll an additional die together with your own dice: remove from the number rolled the first tile (topmost, leftmost). 
+In addition, from the second round, remove the first of the "black" tiles.
+Everytime this way a ship/boat is removed, remove the largest stack of wares. If there is a tie, remove the largest stack with the most identical tiles; if there is still a tie, randomly determine the removed stack.
+Replace yellow tile #26 when it is drawn. 
+Play without the bonus tiles for finishing all tiles of one colour first/second.
+===================================================
+- Setup as 2 player game, including bonus tiles. Player goes first and gets a single worker. Dummy gets his own board (will explain why) - I used one of the #1 boards. Dummy also gets one d6 and two d4.
+- Proceed following turn order. Player's and dummy's dice are Not rolled simultaneously! (if they were, you would always know exactly what dummy will do ahead of time, and that is too much info). So, if dummy jumps ahead in turn order, his dice are rolled and resolved first.
+- Do not roll d4 for black tiles during the first round of each phase. 
+- Player's turn is done completely by the normal rules.
+- Dummy's turn:
+-- d6 determines depot number from which a tile will be removed, and d4 determines which tile (1,2 remove left/top, 3/4 remove right/bottom). If depot only had one tile left, remove it regardless of d4 result. If depot had no tiles left, nothing happens.
+-- From round 2, "black d4" is also rolled. All four black tiles are assigned positions from 1 to 4. Remove black tile corresponding to the rolled number. If this position is already empty, nothing happens!
+-- This is where dummy's personal board comes in. All tiles that he wins get stored on it - for example if dummy got a city tile, put it on any empty city hex on his board. So, you must put a tile on it's proper color, but disregard all other building rules. If a particular color is completely filled, simply discard a tile. Thus you are competing with dummy for bonus tiles. Follow all normal rules for scoring bonus tiles (except when dummy wins a bonus tile, it is simply discarded).
+-- When dummy picks up a ship tile (either from six depots or from blacks!) he moves ahead in turn order and discards the tallest stack of wares. If more that one such stack, determine randomly which one he gets.
+
+I think this is it. The game almost felt like playing against a real opponent, preserving all aspects of the rules. I scored exactly 200 points which is about my average. Since Burgundy is actually my favorite game, I had a blast even in solo!
